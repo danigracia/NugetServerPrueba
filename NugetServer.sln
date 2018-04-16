@@ -5,6 +5,14 @@ VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetServerVueling", "NugetServer\NugetServerVueling.csproj", "{7997828E-14AF-49C8-96DB-4D75C893D6C1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation Tier", "Presentation Tier", "{0D7131F8-625B-4216-B361-BAC043F6A9CD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business Tier", "Business Tier", "{2883CF33-2BD8-4E38-AE38-D636F18FCD8C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccess Tier", "DataAccess Tier", "{A69E2717-549C-4C63-8128-8075D22AD967}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Commont Tier", "Commont Tier", "{D5DFE9E5-07F8-4150-8216-B74067760B54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
